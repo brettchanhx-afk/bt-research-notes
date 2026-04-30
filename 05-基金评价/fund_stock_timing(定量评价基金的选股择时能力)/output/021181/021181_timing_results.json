@@ -1,0 +1,85 @@
+{
+  "fund_code": "021181",
+  "fund_name": "中欧价值精选混合A",
+  "analysis_period": {
+    "start": "2021-01-01",
+    "end": "2026-04-28"
+  },
+  "benchmark": "000300.SH",
+  "risk_free_rate": 0.015,
+  "data_points": 407,
+  "fund_stats": {
+    "ann_return": 0.2898309582309582,
+    "ann_vol": 0.18462633604582177,
+    "sharpe": 1.5698245680346823,
+    "max_drawdown": -0.09887563033626444,
+    "mean": 0.00115012285012285,
+    "std": 0.01163036596786392,
+    "count": 407.0
+  },
+  "bench_stats": {
+    "ann_return": 0.23894477372416764,
+    "ann_vol": 0.19600737160413398,
+    "sharpe": 1.2190601392622729,
+    "max_drawdown": -0.15663635722844851,
+    "mean": 0.0009481935465244747,
+    "std": 0.012347303819046711,
+    "count": 407.0
+  },
+  "model_results": {
+    "TM": {
+      "model": "T-M",
+      "alpha": 0.0007149482151257023,
+      "alpha_pvalue": 0.027872067857293792,
+      "alpha_significant": true,
+      "stock_ability": true,
+      "beta1": 0.7988263217589823,
+      "beta1_pvalue": 5.918418758720606e-110,
+      "beta2": -2.1864305101937336,
+      "beta2_pvalue": 0.00010547113854561562,
+      "beta2_significant": true,
+      "timing_ability": false,
+      "r_squared": 0.7076948383663608,
+      "adj_r_squared": 0.7062477831107488,
+      "f_pvalue": 1.2559427421223017e-108,
+      "nobs": 407
+    },
+    "HM": {
+      "model": "H-M",
+      "alpha": 0.001624924151572606,
+      "alpha_pvalue": 6.40810318487966e-05,
+      "alpha_significant": true,
+      "stock_ability": true,
+      "beta1": 0.9613371877120795,
+      "beta1_pvalue": 4.836631852720707e-70,
+      "beta2": -0.31641471964960105,
+      "beta2_pvalue": 2.050235276291426e-06,
+      "beta2_significant": true,
+      "timing_ability": false,
+      "bull_beta": 0.6449224680624785,
+      "bear_beta": 0.9613371877120795,
+      "r_squared": 0.7130857664901527,
+      "adj_r_squared": 0.7116653989975297,
+      "f_pvalue": 2.9236334415362767e-110,
+      "nobs": 407
+    },
+    "CL": {
+      "model": "C-L",
+      "alpha": 0.0016249241515726058,
+      "alpha_pvalue": 6.408103184879668e-05,
+      "alpha_significant": true,
+      "stock_ability": true,
+      "beta1": 0.9613371877120795,
+      "beta1_pvalue": 4.83663185272112e-70,
+      "beta2": 0.6449224680624797,
+      "beta2_pvalue": 4.918645608034033e-48,
+      "timing_diff": -0.3164147196495999,
+      "timing_ability": false,
+      "timing_ability_beta2_minus_beta1": false,
+      "r_squared": 0.7130857664901528,
+      "adj_r_squared": 0.7116653989975297,
+      "f_pvalue": 2.92363344153611e-110,
+      "nobs": 407
+    }
+  }
+}

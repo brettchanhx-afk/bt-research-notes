@@ -1,0 +1,2 @@
+﻿alpha,factor_exposures,factor_tstats,factor_pvalues,r_squared,adj_r_squared,f_statistic,f_pvalue,n_obs,residual_std
+0.0003773850177516754,"{'duration_factor': -0.24288757960238846, 'convexity_factor': -1596.6864957611954}","{'duration_factor': -0.36370572708296306, 'convexity_factor': -1.006896537273672}","{'duration_factor': 0.7163992866432927, 'convexity_factor': 0.3150028120894142}",0.005557562714425979,-0.0027641313214363805,0.6678403087731263,0.5137692321075633,242,0.004699559975946316
