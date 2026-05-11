@@ -1,0 +1,16 @@
+
+        ========================================
+        Performance Report
+        ========================================
+
+        Total Return:             17.88%
+        Annual Return:            17.48%
+        Annual Volatility:        7.30%
+        Sharpe Ratio:             0.20
+        Sortino Ratio:            0.44
+        Calmar Ratio:             3.25
+        Max Drawdown:             -5.38%
+        Max Drawdown Duration:    8 periods
+        Win Rate:                 51.06%
+        Profit/Loss Ratio:        1.44
+        

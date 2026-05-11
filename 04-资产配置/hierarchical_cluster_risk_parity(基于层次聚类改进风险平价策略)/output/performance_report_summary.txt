@@ -1,0 +1,61 @@
+============================================================
+Hierarchical Risk Parity Strategy - Performance Report
+============================================================
+
+1. Performance Metrics Summary
+----------------------------------------
+
+HRP:
+  Annual Return: 3.96%
+  Annual Volatility: 4.88%
+  Max Drawdown: -8.89%
+  Sharpe Ratio: 0.82
+  Calmar Ratio: 0.45
+  Sortino Ratio: 1.07
+  Win Rate: 65.36%
+
+Naive_HRP:
+  Annual Return: 3.96%
+  Annual Volatility: 4.88%
+  Max Drawdown: -8.89%
+  Sharpe Ratio: 0.82
+  Calmar Ratio: 0.45
+  Sortino Ratio: 1.07
+  Win Rate: 65.36%
+
+Vol_HRP:
+  Annual Return: 4.29%
+  Annual Volatility: 6.47%
+  Max Drawdown: -12.63%
+  Sharpe Ratio: 0.68
+  Calmar Ratio: 0.34
+  Sortino Ratio: 0.98
+  Win Rate: 60.13%
+
+RiskParity:
+  Annual Return: 4.21%
+  Annual Volatility: 2.96%
+  Max Drawdown: -4.90%
+  Sharpe Ratio: 1.41
+  Calmar Ratio: 0.86
+  Sortino Ratio: 2.24
+  Win Rate: 67.32%
+
+
+2. Annual Returns Detail
+----------------------------------------
+                 HRP  Naive_HRP   Vol_HRP  RiskParity
+2013-12-31  0.035062   0.035062  0.019818    0.000708
+2014-12-31  0.030105   0.030105  0.047414    0.044168
+2015-12-31  0.030078   0.030078  0.031060    0.029860
+2016-12-31  0.022712   0.022712  0.027985    0.041424
+2017-12-31  0.040266   0.040266  0.046623    0.051225
+2018-12-31 -0.031217  -0.031217 -0.065979    0.000239
+2019-12-31  0.081902   0.081902  0.117943    0.069456
+2020-12-31  0.003127   0.003127  0.040484    0.043113
+2021-12-31  0.069983   0.069983  0.063411    0.053495
+2022-12-31 -0.056998  -0.056998 -0.075249   -0.025713
+2023-12-31  0.057979   0.057979  0.048319    0.058952
+2024-12-31  0.097761   0.097761  0.098467    0.085110
+2025-12-31  0.072471   0.072471  0.095250    0.058338
+2026-12-31  0.062544   0.062544  0.070396    0.030444

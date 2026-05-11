@@ -1,0 +1,7 @@
+Strategy,Total Return,Annualized Return,Annualized Volatility,Sharpe Ratio,Max Drawdown,Calmar Ratio,Win Rate
+RiskParity,0.7814,0.0527,0.3710,0.1420,-0.5902,0.0893,0.5092
+Momentum_k0.1,0.6905,0.0473,0.3642,0.1299,-0.6485,0.0729,0.5152
+Momentum_k0.5,0.3872,0.0292,0.3136,0.0932,-0.5619,0.0520,0.5197
+Momentum_k1.0,0.3693,0.0280,0.2933,0.0956,-0.5986,0.0469,0.5222
+Momentum_k1.5,0.5672,0.0403,0.2907,0.1388,-0.5986,0.0674,0.5225
+Momentum_k2.0,0.5943,0.0419,0.2904,0.1443,-0.5986,0.0700,0.5218

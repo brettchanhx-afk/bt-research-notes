@@ -1,0 +1,8 @@
+asset,code,count,status
+沪深300,000300.SH,1701,OK
+中证1000,000852.SH,1701,OK
+恒生指数,HSI.HK,0,FAIL
+标普500,SPX.GI,0,FAIL
+中债-国债总财富,CBA00101.CI,0,FAIL
+中债-企业债总财富,CBA00201.CI,0,FAIL
+南华商品指数,NH0100.NH,0,FAIL

@@ -1,0 +1,11 @@
+
+Backtest Performance Summary
+=============================
+Total Return: 6.22%
+Annualized Return: 0.52%
+Annualized Volatility: 0.34%
+Sharpe Ratio: 1.51
+Max Drawdown: -0.30%
+Win Rate: 69.72%
+Profit/Loss Ratio: 1.60
+Number of Trades: 142
